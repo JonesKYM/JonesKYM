@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on AI Power App via Microsoft
 - 🌱 I’m currently learning and focusing on building skills in AI for NLP and ML
 - 💬 Ask me about anything Microsoft Power Platform 
-- 📫 How to reach me: kyjconsulting328@gmail.com
+- 📫 How to reach me: qos2@cdc.gov
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nurse that became a computer geek. 
 -->
